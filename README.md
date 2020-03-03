@@ -2,6 +2,8 @@
 
 A collection of resources on wait-free and lock-free programming.
 
+:fire: :fire: :fire: Even better resource from [MattPD](https://github.com/MattPD): [C++ links: atomics, lock free, memory model](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md).
+
 ## Libraries
 
 * [Boost.Lockfree](http://www.boost.org/doc/libs/1_60_0/doc/html/lockfree.html) - Boost lock-free data structures.
@@ -39,12 +41,13 @@ A collection of resources on wait-free and lock-free programming.
 ## Books
 
 * *Paul E. McKenney*. [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* *Maurice Herlihy and Nir Shavit*. [The Art of Multiprocessor Programming](https://dl.acm.org/citation.cfm?id=2385452)
 
 ## Papers
 
 * [A Tutorial Introduction to the ARM and POWER Relaxed Memory Models](http://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf)
 * *Paul E. McKenney*. [Memory Barriers: a Hardware View for Software Hackers](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf).
-* [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.research.ibm.com/people/m/michael/podc-1996.pdf) - The Michael - Scott Queue
+* [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](https://www.cs.rochester.edu/u/scott/papers/1996_PODC_queues.pdf) - The Michael - Scott Queue
 * *Ulrich Drepper*. [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
 
